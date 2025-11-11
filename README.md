@@ -1,28 +1,5 @@
 ### Hi there 👋, I'm [0xcordev](https://github.com/0xcordev) 👨‍💻
 <br />
-
-<p>
-A Skilled FullStack JavaScript Developer 🚀 . Always working on some projects or learning something new!
-<br/>
-Stacks I have worked with : 
-<br/>
-MERN - React+Firebase , Meteor+React , Next+React
-<br/>
-MEAN - Angular+Firebase
-<br/>
-VueJS - Vue2, Vue3, Nuxt.
-<br/> 
-NodeJS - ExpressJS, NestJS
-<br/> 
-Database - MongoDB, Postgresql, Mysql
-<br/> 
-Blockchain - ERC20, ERC715, Solidity, Solana, 
-<br/> 
-<br/>
-Things I am currently experimenting with : jest , enzyme , typescript, docker...
-<br/>
-Want to become a full-time developer 💸 and an Open Source Contributor ❤️.
-</p>
   
 ### ✨ Quick Facts
 
