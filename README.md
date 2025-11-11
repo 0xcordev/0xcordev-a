@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [DevStack](https://github.com/0xcordev) 👨‍💻
+### Hi there 👋, I'm [0xcordev](https://github.com/0xcordev) 👨‍💻
 <br />
 
 <p>
